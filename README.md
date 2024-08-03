@@ -1,16 +1,14 @@
 Hello, I am Praveen Halapeti 👋
 
-<!--
-**Praveen-Halapeti/Praveen-Halapeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 My pronouns are: He/His/Him
+🔭 I’m currently working as a Senior Software Engineer
+💬 I'm looking to collaborate and create some cool content that we can share with the community
+🤘 You can find various data engineering projects on my profile
+🧑🏻‍🏫 I am currenly learning
+Exporing Modern Data Stack (dbt, Airbyte, Databricks)
+Azure Cloud (Already worked with AWS & GCP)
+How to architectect better data system
+📫 Here's how you can reach me: LinkedIn
+My Certifications and Courses
+Microsoft Certified AZ-900 fundamentals
+Data Science Professional Certificate
